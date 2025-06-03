@@ -1,0 +1,4 @@
+3. Premier commit
+
+- Crée un fichier README.md et ajoute du texte et ajoute le fichier à l'index (staging area)
+- Fais ton premier commit

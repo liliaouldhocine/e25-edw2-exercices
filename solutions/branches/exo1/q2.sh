@@ -1,0 +1,1 @@
+git branch  # ou `git branch -v` pour plus de détails

@@ -1,0 +1,3 @@
+4. Vérification de l'historique
+
+- Affiche l'historique des commits

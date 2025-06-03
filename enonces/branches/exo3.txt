@@ -1,0 +1,10 @@
+⚠️ Exercices sur les Conflits (Cas Réels)
+3. Conflit Basique (Modification du Même Fichier)
+Objectif : Provoquer et résoudre un conflit simple.
+
+- Sur main, créez index.html avec <h1>Hello</h1>.
+- Sur une branche feature/header, modifiez-le en <h1>Bonjour</h1> et commitez.
+- Revenez sur main, modifiez le même fichier en <h1>Hola</h1> et commitez.
+- Essayez de fusionner dans main la branche feature/header  
+
+

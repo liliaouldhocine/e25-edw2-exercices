@@ -1,0 +1,4 @@
+2. Création d'un dépôt local
+
+- Crée un dossier et initialise un dépôt Git
+- Vérifie que Git a bien été initialisé

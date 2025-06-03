@@ -1,0 +1,6 @@
+6. Travailler avec les branches
+
+- Crée une nouvelle branche
+- Passe sur cette branche
+- Réponds aux deux premières question en une commande
+- Fais des modifications, commit et pousse la branche

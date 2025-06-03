@@ -1,0 +1,6 @@
+10. Contribuer à un projet open source (Fork & Pull Request)
+
+- Fais un fork d'un projet sur GitHub (https://github.com/liliaouldhocine/e25-edw2-c4).
+- Clone ton fork
+- Crée une branche, fais des modifications.
+- Pousse les changements et ouvre une Pull Request sur le projet original.

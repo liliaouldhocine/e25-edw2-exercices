@@ -1,0 +1,7 @@
+1. Jeu de Branches (Création/Suppression)
+Objectif : Manipuler plusieurs branches et comprendre leur cycle de vie.
+
+- Crée 3 branches
+- Liste les branches
+- Supprime la branche feature/profile (si elle n’a pas été fusionnée)
+- Défi : Supprime une branche distante après l’avoir supprimée en local

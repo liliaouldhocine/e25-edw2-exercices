@@ -1,0 +1,6 @@
+8. Gérer les conflits
+
+Pour créer un conflit :
+
+- Modifie un même fichier sur deux branches différentes.
+- Essaie de fusionner et résous le conflit manuellement.

@@ -1,0 +1,11 @@
+🎯 Défi Final : Workflow d’Équipe
+
+- Créez un faux dépôt avec un fichier index.js (contenu : console.log("Hello")).
+
+- Invitez un ami à le cloner et à créer une branche feature/logger.
+
+- Conflit organisé :
+-- Vous modifiez index.js ligne 1 (console.log("Bonjour")).
+-- Lui modifie la même ligne (console.log("Hola")).
+
+- Fusionnez en équipe et résolvez le conflit ensemble (sur Teams ?).

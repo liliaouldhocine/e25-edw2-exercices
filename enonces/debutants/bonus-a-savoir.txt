@@ -1,0 +1,9 @@
+Bonus : Commandes utiles à maîtriser
+
+
+Commande	    Description
+git diff	    Voir les modifications avant commit
+git stash	    Mettre de côté des changements non commités
+git reset	    Annuler des commits (attention : dangereux)
+git tag	        Créer un tag pour une version
+git fetch	    Récupérer les changements distants sans merger

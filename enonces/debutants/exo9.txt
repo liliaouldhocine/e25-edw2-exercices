@@ -1,0 +1,3 @@
+9. Rebasing
+
+Au lieu de merge, utilise rebase

@@ -1,0 +1,4 @@
+1. Configuration initiale de Git
+
+- Configure ton nom et ton email dans Git
+- Vérifie la configuration 

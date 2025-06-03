@@ -1,0 +1,4 @@
+5. Création d'un dépôt distant sur GitHub
+
+- Crée un nouveau dépôt sur GitHub (sans README).
+- Lie ton dépôt local au dépôt distant

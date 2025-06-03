@@ -1,0 +1,7 @@
+4. Conflit sur un Fichier Supprimé
+Objectif : Gérer un conflit quand une branche supprime un fichier qu’une autre modifie.
+
+- Sur main, créez style.css avec body { color: red; }.
+- Sur feature/design, modifiez-le en body { color: blue; }.
+- Revenez sur main et supprimez style.css.
+- Fusionnez

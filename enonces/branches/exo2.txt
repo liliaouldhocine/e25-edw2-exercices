@@ -1,0 +1,9 @@
+2. Fusion vs. Rebase (Avantages/Inconvénients)
+Objectif : Comparer merge et rebase pour intégrer des changements.
+
+Instructions :
+- Sur la branche main, crée un fichier config.txt.
+- Sur une branche feature/settings, modifie ce fichier.
+
+Question : 
+- Quel historique est plus propre ? Pourquoi ?

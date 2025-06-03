@@ -1,0 +1,6 @@
+5. Conflit lors d’un Rebase
+Objectif : Résoudre un conflit pendant un rebase interactif.
+
+- Créez 2 commits sur une branche feature/contact (modifiant le même fichier).
+- Lancez un rebase sur main
+- Si conflit résolvez-le comme précédemment.

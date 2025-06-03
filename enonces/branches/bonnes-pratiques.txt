@@ -1,0 +1,9 @@
+📌 Résumé des Bonnes Pratiques
+
+- Branches :
+-- Nommez-les clairement (feature/nom, fix/bug, docs/update).
+-- Supprimez les branches fusionnées pour garder le dépôt propre.
+
+- Conflits :
+-- Utilisez git diff pour inspecter les différences.
+-- Testez toujours après un merge pour vérifier que tout fonctionne.

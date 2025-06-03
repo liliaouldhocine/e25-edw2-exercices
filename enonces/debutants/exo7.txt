@@ -1,0 +1,4 @@
+7. Fusionner une branche (Merge)
+
+- Reviens sur main
+- Fusionne la branche feature/login
